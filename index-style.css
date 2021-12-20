@@ -1,0 +1,58 @@
+body{
+  background-color:black;
+  size :100%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+ul {
+  display: flex; 
+  list-style:none;
+  align-content: center; 
+  justify-content:space-evenly; 
+  position:sticky;
+  border:solid 5px; 
+  border-color: rgba(255,255,255,0.7);
+  text-decoration:none; 
+  height:60px;
+} 
+ul li a{
+  font-weight: bold; 
+  color:white;
+  text-decoration:none; 
+}   
+ul li a :hover{scale:1.5}
+
+.name{
+  background:url(https://cdn.wallpapersafari.com/78/77/C0MPfg.jpg);
+  background-size:100%; 
+  width:100%;
+  height:400px;
+  text-align:center;
+  align-items: center; 
+  justify-content:center;
+  color:white ;
+} 
+h1{
+  font-weight: bold; 
+  text-align:center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  background-color:rgba(1,1,1,0.6); 
+  color:white
+}
+.Biography{
+  background:url(https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg);
+   background-size:100%;
+  text-align:center ;
+  align-items:center;
+  color:white;
+  margin: 50px;
+} 
+.Achievements{
+  background:url(https://ak.picdn.net/shutterstock/videos/18131371/thumb/5.jpg?ip=x480);
+  background-size:100%;
+ text-align:center ;
+ padding:100px;
+ color:white;
+ margin: 50px;
+} 
+
