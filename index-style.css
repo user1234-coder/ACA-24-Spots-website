@@ -1,7 +1,8 @@
 body{
   background-color:black;
   size :100%;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   background:url(https://cdn.shopify.com/s/files/1/0969/9128/products/Kobe_Bryant_-_LA_Lakers_-_NBA_Basketball_Great_Poster_41cc0672-88e0-40c5-8d3a-88d97b60f090.jpg?v=1580114253);
 } 
 
 ul {
